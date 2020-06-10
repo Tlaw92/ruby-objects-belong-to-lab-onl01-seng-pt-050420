@@ -1,7 +1,7 @@
-class Post
+# class Post
   
-  attr_accessor :title, :author 
+#   attr_accessor :title, :author 
 
-end 
+# end 
 
-post = Post.new 
+# post = Post.new 
