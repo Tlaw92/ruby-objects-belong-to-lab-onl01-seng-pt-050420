@@ -1,8 +1,8 @@
-class Song 
-  attr_accessor :title, :artist
+# class Song 
+#   attr_accessor :title, :artist
   
   
-end   
+# end   
 
 
-song = Song.new
+# song = Song.new
